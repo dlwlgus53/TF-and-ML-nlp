@@ -4,6 +4,5 @@
   <img src="https://github.com/NLP-kr/tensorflow-ml-nlp-tf2/blob/master/main.png" width="450" height="500" /> 
 </p>
 
-책 : ![book](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2/blob/master/main.png){: width="250" height="250"}
 
 코드 출처 : https://github.com/NLP-kr/tensorflow-ml-nlp-tf2
